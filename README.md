@@ -13,7 +13,7 @@ A simple and secure random password generator built using HTML, CSS, and JavaScr
 ## 📸 Screenshot
 
 
-![Password Generator Screenshot]([screenshot.png](https://github.com/nitishpandey335/Password_Generator/blob/main/assets/Screenshot%202025-06-26%20111351.png))
+![Password Generator Screenshot](https://github.com/nitishpandey335/Password_Generator/blob/main/assets/Screenshot%202025-06-26%20111351.png?raw=true)
 
 ## 🛠️ Technologies Used
 
