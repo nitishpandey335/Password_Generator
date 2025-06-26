@@ -12,9 +12,8 @@ A simple and secure random password generator built using HTML, CSS, and JavaScr
 
 ## 📸 Screenshot
 
-> *(Add a screenshot named `screenshot.png` in your repo root if available)*
 
-![Password Generator Screenshot](screenshot.png)
+![Password Generator Screenshot]([screenshot.png](https://github.com/nitishpandey335/Password_Generator/blob/main/assets/Screenshot%202025-06-26%20111351.png))
 
 ## 🛠️ Technologies Used
 
